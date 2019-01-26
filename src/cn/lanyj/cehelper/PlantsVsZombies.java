@@ -9,6 +9,10 @@ import org.bytedeco.javacpp.Pointer;
 import org.bytedeco.javacpp.windows;
 import org.bytedeco.javacpp.windows.LPCVOID;
 
+import cn.lanyj.cehelper.core.CEAddressPointer;
+import cn.lanyj.cehelper.core.CEProcess;
+import cn.lanyj.cehelper.core.Utils32;
+
 public class PlantsVsZombies {
 
 	public static void snailRunFast(Pointer hprocess) {

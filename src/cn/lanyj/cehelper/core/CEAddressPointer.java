@@ -1,4 +1,4 @@
-package cn.lanyj.cehelper;
+package cn.lanyj.cehelper.core;
 
 import org.bytedeco.javacpp.Pointer;
 

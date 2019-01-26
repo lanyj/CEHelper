@@ -1,4 +1,4 @@
-package cn.lanyj.cehelper;
+package cn.lanyj.cehelper.core;
 
 public class CEProcess implements Comparable<CEProcess> {
 	private int pid;
